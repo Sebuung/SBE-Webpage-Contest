@@ -4,8 +4,7 @@
 
 # 예시 사이트
 
-예시를위해 [세붕이 팀 소개 페이지](https://sebuung.github.io/SBE-Webpage-Example/)라는 정적 웹페이지를 호스팅합니다.  
-HTML + CSS로 이루어진 이 웹페이지는 아래와 같은 기능을 제공합니다.
+예시를위해 [세붕이 팀 소개 페이지](https://sebuung.github.io/SBE-Webpage-Example/)라는 정적 웹페이지를 호스팅합니다. HTML + CSS로 이루어진 이 웹페이지는 아래와 같은 기능을 제공합니다.
 
 - 멤버 소개 메뉴
 - 수상 실적
